@@ -6,6 +6,6 @@ public class Project2 {
     }
 
     public static String printFromProject2(){
-        return "hello from project two";
+        return "hello from project two two";
     }
 }
